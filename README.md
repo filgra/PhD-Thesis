@@ -1,3 +1,5 @@
+# **Abstract**
+
 This PhD Thesis is focused on pricing and risk management techniques for long dated
 contingent claims where no complete market is available for hedging purposes. The problem
 is approached from a potential life-insurer standpoint, with the purpose of selling
